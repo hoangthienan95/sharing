@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>RSS subscriptions for hoangthienan95@gmail.com</title>
+    <dateCreated>Wed, 27 May 2020 02:06:12 +0000</dateCreated>
+    <ownerEmail>hoangthienan95@gmail.com</ownerEmail>
+  </head>
+  <body>
+<outline text="FlowingData" title="FlowingData" type="rss" xmlUrl="https://flowingdata.com/feed" htmlUrl="https://flowingdata.com"/>
+<outline text="Statistical Thinking on Statistical Thinking" title="Statistical Thinking on Statistical Thinking" type="rss" xmlUrl="https://www.fharrell.com/index.xml" htmlUrl="https://fharrell.com/"/>
+<outline text="Count Bayesie - A Probability Blog" title="Count Bayesie - A Probability Blog" type="rss" xmlUrl="https://www.countbayesie.com/blog?format=rss" htmlUrl="http://www.countbayesie.com/"/>
+<outline text="betanalpha.github.io" title="betanalpha.github.io" type="rss" xmlUrl="https://betanalpha.github.io/feed.xml" htmlUrl="https://betanalpha.github.io/"/>
+<outline text="Rob’s Homepage" title="Rob’s Homepage" type="rss" xmlUrl="https://roberttlange.github.io/feed.xml" htmlUrl="http://localhost:4000/"/>
+<outline text="matthewmcateer.me" title="matthewmcateer.me" type="rss" xmlUrl="https://matthewmcateer.me/rss.xml" htmlUrl="https://matthewmcateer.me"/>
+<outline text="Python⇒Speed" title="Python⇒Speed" type="rss" xmlUrl="https://pythonspeed.com/atom.xml" htmlUrl="https://pythonspeed.com/"/>
+<outline text="Cloudera Fast Forward Labs Blog" title="Cloudera Fast Forward Labs Blog" type="rss" xmlUrl="https://blog.fastforwardlabs.com/feed.xml" htmlUrl="http://blog.fastforwardlabs.com/"/>
+<outline text="Distill" title="Distill" type="rss" xmlUrl="https://distill.pub/rss.xml" htmlUrl="https://distill.pub"/>
+<outline text="Probably Overthinking It" title="Probably Overthinking It" type="rss" xmlUrl="http://allendowney.blogspot.com/feeds/posts/default" htmlUrl="http://allendowney.blogspot.com/"/>
+<outline text="Yanir Seroussi" title="Yanir Seroussi" type="rss" xmlUrl="https://yanirseroussi.com/feed/" htmlUrl="https://yanirseroussi.com"/>
+<outline text="Pete Warden's blog" title="Pete Warden's blog" type="rss" xmlUrl="https://petewarden.com/feed/" htmlUrl="https://petewarden.com"/>
+<outline text="Uwe Korn's blog" title="Uwe Korn's blog" type="rss" xmlUrl="https://uwekorn.com/rss.xml" htmlUrl="https://uwekorn.com"/>
+<outline text="KDnuggets" title="KDnuggets" type="rss" xmlUrl="https://www.kdnuggets.com/feed" htmlUrl="https://www.kdnuggets.com"/>
+<outline text="i am trask" title="i am trask" type="rss" xmlUrl="http://iamtrask.github.io/feed.xml" htmlUrl="https://iamtrask.github.io/"/>
+<outline text="Algorithmia Blog" title="Algorithmia Blog" type="rss" xmlUrl="https://algorithmia.com/blog/feed" htmlUrl="https://algorithmia.com/blog"/>
+<outline text="Machine Learning (Theory)" title="Machine Learning (Theory)" type="rss" xmlUrl="https://hunch.net/?feed=rss2" htmlUrl="https://hunch.net"/>
+<outline text="FastML" title="FastML" type="rss" xmlUrl="http://fastml.com/atom.xml" htmlUrl="http://fastml.com/"/>
+<outline text="The Data Incubator" title="The Data Incubator" type="rss" xmlUrl="https://blog.thedataincubator.com/feed/" htmlUrl="https://blog.thedataincubator.com"/>
+<outline text="Another Datum" title="Another Datum" type="rss" xmlUrl="https://anotherdatum.com/feeds/all.atom.xml" htmlUrl="https://anotherdatum.com/"/>
+<outline text="Edwin Chen's Blog" title="Edwin Chen's Blog" type="rss" xmlUrl="http://blog.echen.me/feeds/all.atom.xml" htmlUrl="http://blog.echen.me/"/>
+<outline text="PyImageSearch" title="PyImageSearch" type="rss" xmlUrl="https://www.pyimagesearch.com/feed/" htmlUrl="https://www.pyimagesearch.com"/>
+<outline text="Statistical Modeling, Causal Inference, and Social Science" title="Statistical Modeling, Causal Inference, and Social Science" type="rss" xmlUrl="https://statmodeling.stat.columbia.edu/feed/" htmlUrl="https://statmodeling.stat.columbia.edu"/>
+<outline text="NYU Center for Data Science" title="NYU Center for Data Science" type="rss" xmlUrl="https://cds.nyu.edu/feed/" htmlUrl="https://cds.nyu.edu"/>
+<outline text="Machine Learning Mastery" title="Machine Learning Mastery" type="rss" xmlUrl="https://feeds.feedburner.com/MachineLearningMastery" htmlUrl="https://machinelearningmastery.com"/>
+<outline text="Data Elixir" title="Data Elixir" type="rss" xmlUrl="https://dataelixir.com/issues.rss" htmlUrl="https://dataelixir.com/issues.rss"/>
+<outline text="Comments for ML in Production" title="Comments for ML in Production" type="rss" xmlUrl="https://mlinproduction.com/comments/feed/" htmlUrl="https://mlinproduction.com"/>
+<outline text="ML in Production" title="ML in Production" type="rss" xmlUrl="https://mlinproduction.com/feed/" htmlUrl="https://mlinproduction.com"/>
+<outline text="The Data Science Roundup" title="The Data Science Roundup" type="rss" xmlUrl="http://roundup.fishtownanalytics.com/?format=rss" htmlUrl="http://roundup.fishtownanalytics.com/"/>
+<outline text="Oversimplified" title="Oversimplified" type="rss" xmlUrl="https://conor.substack.com/feed/" htmlUrl="https://conor.substack.com"/>
+<outline text="Normcore Tech" title="Normcore Tech" type="rss" xmlUrl="https://vicki.substack.com/feed/" htmlUrl="https://vicki.substack.com"/>
+  </body>
+</opml>
